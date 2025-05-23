@@ -1,0 +1,20 @@
+# created by virtualenv automatically
+lib/
+tests/
+.idea/
+Lib/
+__pycache__/
+
+*.bat
+*.fish
+*.nu
+*.ps1
+*.exe
+*.TAG
+*.cfg
+*.xml
+*.iml
+
+
+activate_this.py
+activate
